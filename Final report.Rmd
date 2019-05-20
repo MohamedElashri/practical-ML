@@ -156,7 +156,7 @@ rm(modelTree)
 
 ```
 
-We find that the  Estimated Accuracy of the Random Forest Model is `r accuracy[1]*100`% and the Estimated Out-of-Sample Error is about `r ose*100`%.  
+We find that the  Estimated Accuracy of the Desicion tree Model is `r accuracy[1]*100`% and the Estimated Out-of-Sample Error is about `r ose*100`%.  
 
 ## Random forest
 
